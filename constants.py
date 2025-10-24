@@ -1,0 +1,17 @@
+domains = [
+    "Politics & Government",
+    "Health & Science",
+    "Business & Finance",
+    "Legal & Crime",
+    "History & Pseudoscience",
+    "Entertainment & Culture",
+    "Sports",
+    "Manipulated Media",
+    "Misleading or Missing Context",
+    "Factual Error or Inaccuracy",
+    "Scams & Fraud",
+    "Identity & Attribution",
+    "Satire & Humor",
+    "Platform or Policy Violations",
+    "Conspiracy Theory & Disinformation",
+]
